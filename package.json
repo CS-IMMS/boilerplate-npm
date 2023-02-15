@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"CS-IMMS",
+	"author": "CS-IMMS",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
