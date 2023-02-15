@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Ismael Mahamadou Moussa",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -8,6 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author":"Ismael Mahamadou Moussa",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/CS-IMMS/boilerplate-npm"
